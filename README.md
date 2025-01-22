@@ -6,11 +6,13 @@ Author: Sarvesh Telang. telang@rptu.de
 
 Vehicle Simulation Video: https://seafile.rlp.net/lib/7e890b82-073a-400a-8e59-0bb07fe0a2ae/file/Lane_Prediction_1_LH0.5.mp4
 
+More Videos: https://seafile.rlp.net/library/7e890b82-073a-400a-8e59-0bb07fe0a2ae/VTG_Vehicle_Simulation_Videos/
+
 The following figures provide an overview of the overall pipeline of the work.
 
-![Overall Pipeline](fig_Implementation.png)
+![Overall Pipeline](Thesis Implementation Pipeline.png)
 
-![Carla Implementation](carla_simulation_pipeline_squared.png)
+![Carla Implementation](Simulation over CARLA.png)
 
 =============================================================================================
 
