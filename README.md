@@ -10,9 +10,9 @@ More Videos: https://seafile.rlp.net/library/7e890b82-073a-400a-8e59-0bb07fe0a2a
 
 The following figures provide an overview of the overall pipeline of the work.
 
-![Overall Pipeline](Thesis Implementation Pipeline.png)
+![Overall Pipeline](Thesis_Implementation_Pipeline.png)
 
-![Carla Implementation](Simulation over CARLA.png)
+![Carla Implementation](Simulation_over_CARLA.png)
 
 =============================================================================================
 
