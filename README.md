@@ -26,7 +26,7 @@ The following figures provide an overview of the overall pipeline of the work.
 
 ![Carla Implementation](Simulation_over_CARLA.png)
 
-=============================================================================================
+============================================================================================
 
 Previous work:
 
