@@ -30,8 +30,6 @@ The following figures provide an overview of the overall pipeline of the work.
 
 Previous work:
 
-Image based lane detection is performed using DNN model. 
-
-The model is based on Ultra Fast Structure-aware Deep Lane Detection. Link: https://arxiv.org/abs/2004.11757 
+Image based lane detection is performed using DNN model based on Ultra Fast Structure-aware Deep Lane Detection. Link: https://arxiv.org/abs/2004.11757 
 
 Lane keeping is based on Kinematic iMPC framework: S. A. Hiremath, P. K. Gummadi and N. Bajcinca, "Image based Model Predictive Controller for Autonomous Driving". Link: https://ieeexplore.ieee.org/document/10185808
