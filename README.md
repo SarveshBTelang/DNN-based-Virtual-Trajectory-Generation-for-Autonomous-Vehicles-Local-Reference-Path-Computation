@@ -9,6 +9,8 @@ This implementation showcases a vehicle lane-keeping simulation, where the vehic
 - **RGB Solid Lines**: Predicted lanes based on sequence of frames
 
 Author: Sarvesh Telang. telang@rptu.de
+Master Thesis Project 2024-25, RPTU Kaiserslautern-Landau
+Grade: 1,3
 
 Vehicle Simulation Video: https://seafile.rlp.net/lib/7e890b82-073a-400a-8e59-0bb07fe0a2ae/file/Lane_Prediction_1_LH0.5.mp4
 
