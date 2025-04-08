@@ -6,7 +6,7 @@ This implementation showcases a vehicle lane-keeping simulation, where the vehic
 - **Orange Line**: Static reference path representing the ideal trajectory the vehicle is expected to follow  
 - **Yellow Line**: Actual vehicle trajectory followed after computing deviation from the input local reference path  
 - **RGB Dotted Lines**: Detected lanes in real-time
-- **RGB Solid Lines**: Predicted lanes based on frame sequence
+- **RGB Solid Lines**: Predicted lanes based on sequence of frames
 
 Author: Sarvesh Telang. telang@rptu.de
 
