@@ -7,7 +7,7 @@ This implementation showcases a vehicle lane-keeping simulation, where the vehic
 - **Yellow Line**: Actual vehicle trajectory after computing deviation from the input local reference path.
 - **RGB Dotted Lines**: Detected lanes in real time.
 - **RGB Solid Lines**: Predicted lanes based on a sequence of frames.
-- **Black Lines**: Mid-trajectories for each lane in the 2D pixel coordinate system (used as candidate paths for the collision avoidance system).
+- **Black Lines**: Mid-trajectories for each predicted lane in the 2D pixel coordinate system (used as candidate paths for the collision avoidance system).
 
 Vehicle Simulation Video: https://seafile.rlp.net/lib/7e890b82-073a-400a-8e59-0bb07fe0a2ae/file/Lane_Prediction_1_LH0.5.mp4
 
