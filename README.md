@@ -19,7 +19,7 @@ Master Thesis Project 2024-25, RPTU Kaiserslautern-Landau
 
 Grade: 1,3
 
-[![Presentation](Thesis_Overview.png)](https://docs.google.com/presentation/d/1HSHdqrrI8RBnmcrwZLg82HktebZU_8-HOmeCmmJiWM8/present)
+[![Presentation](Thesis_Overview.png)](https://drive.google.com/file/d/16RfTFhGUpPzC-GoqmiJpcbw3Cr_bZ6si/view?usp=sharing)
 
 Full Presentation link 👉: https://docs.google.com/presentation/d/1HoLhIgqfdFuED79aQlcHuO7k5kiOAdsydei2ea-_nUM/edit?usp=sharing
 
