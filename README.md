@@ -19,9 +19,9 @@ Master Thesis Project 2024-25, RPTU Kaiserslautern-Landau
 
 Grade: 1,3
 
-[![Presentation](Thesis_Overview.png)](https://drive.google.com/file/d/16RfTFhGUpPzC-GoqmiJpcbw3Cr_bZ6si/view?usp=sharing)
+![Presentation](Thesis_Overview.png)
 
-Full Presentation link 👉: https://docs.google.com/presentation/d/1HoLhIgqfdFuED79aQlcHuO7k5kiOAdsydei2ea-_nUM/edit?usp=sharing
+Full Presentation link 👉: https://drive.google.com/file/d/16RfTFhGUpPzC-GoqmiJpcbw3Cr_bZ6si/view?usp=sharing
 
 More Videos: https://seafile.rlp.net/library/7e890b82-073a-400a-8e59-0bb07fe0a2ae/VTG_Vehicle_Simulation_Videos/
 
